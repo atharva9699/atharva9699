@@ -48,9 +48,7 @@
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://raw.githubusercontent.com/atharva9699/atharva9699/output/github-contribution-grid-snake.svg)  
-
----
+![Snake animation](https://raw.githubusercontent.com/atharva9699/aadi07/output/github-contribution-grid-snake.svg)
 
 ## 🚀 Connect With Me  
 
