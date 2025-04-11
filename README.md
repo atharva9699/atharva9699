@@ -29,18 +29,12 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-42A5F5?style=flat&logo=python&logoColor=white)
 
-**📊 Databases & Cloud:**  
+
+### 📊 Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
- 
----
-
-## 📊 GitHub Stats  
-
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharva9699&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva9699&layout=compact&theme=radical)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ---
-
 ## 🐍 Contribution Snake  
 
 ![Snake animation](https://raw.githubusercontent.com/atharva9699/aadi07/output/github-contribution-grid-snake.svg)
