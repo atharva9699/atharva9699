@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **AI & ML Enthusiast**  
-- 🌱 I’m learning **React.js, Node.js, and Machine Learning**  
+- 🌱 I’m learning **Agentic Ai Langchain MCP and Machine Learning**  
 - 💬 Ask me about **Python, Web Dev, AI, and Open Source**  
 - 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/yourprofile)**  
 - ⚡ Fun fact: **I love solving DSA problems & contributing to open source!**  
@@ -16,7 +16,7 @@
 **💻 Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+
 
 ### 🖥️ GUI & Web App Development
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
